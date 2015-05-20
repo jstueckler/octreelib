@@ -19,7 +19,7 @@ make
 sudo make install
 
 Octreelib is required for mrsmap which can be found on 
-https://github.com/ais-hilgert/mrsmap/
+https://github.com/jstueckler/mrsmap/
 
 
 #######################################################################################################
